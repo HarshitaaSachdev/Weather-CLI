@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+import myDefaultExport from '../index.js'; // Adjust path as necessary
+
+myDefaultExport(); // Calls the default export function
